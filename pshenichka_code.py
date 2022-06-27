@@ -6,3 +6,4 @@ pshenichka()
 
 print("Hello, my_way!")
 print("Today is the best day!")
+print("Add some changes")
